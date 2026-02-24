@@ -1,2 +1,2 @@
-# DOGOVORI SITE
+# DOGOVOR SITE
 Ашур главный
